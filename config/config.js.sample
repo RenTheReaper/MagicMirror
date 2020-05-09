@@ -61,6 +61,22 @@ var config = {
 		{
 			module: "compliments",
 			position: "lower_third"
+			
+			config: {
+				compliments: {
+					anytime: [
+						"Your so ugly, your portraits must hang themselves",
+						"Your eyes don't share the same postcode",
+						"Stephen curry probably couldn't hit threes from behind your hairline",
+						"You look like the discarded afterbirth of Shrek and Donkey",
+						"Your so hairy, there must be a bigfoot sighting every time you go outside",
+						"If I had a face like yours, I'd sue my parents",
+						"You must have been born on a highway, because that's where most accidents happen",
+						"If your going to be two faced, at least make one of them good looking",
+						"Your forehead looks like a big mac"
+						]
+					}
+				}
 		},
 		{
 			module: "currentweather",
